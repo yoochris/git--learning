@@ -1,5 +1,3 @@
 # git--learning
 
-master2
-
-master3
+develop
