@@ -1,8 +1,3 @@
 我是windows新建的文件
 
-master
-
-master2
-develop
-develop
-develop2
+master3
